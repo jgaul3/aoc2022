@@ -24,5 +24,5 @@ def get_tops(filename: str):
 
 
 if __name__ == "__main__":
-    print(get_tops("../day06/input0.txt"))
-    print(get_tops("../day06/input1.txt"))
+    print(get_tops("input0.txt"))
+    print(get_tops("input1.txt"))
